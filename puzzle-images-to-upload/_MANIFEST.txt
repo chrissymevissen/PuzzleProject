@@ -1,0 +1,65 @@
+FILES ARE .jpg  (the streaming tool must use extension .jpg)
+
+PUZZLE PICTURE UPLOAD MANIFEST
+Upload EVERY file in this folder to the root of your image host.
+Keep the filenames EXACTLY as-is. Base URL example: https://raw.githubusercontent.com/<you>/<repo>/main
+Resolution: replace any file with a higher-res version if you have one, but KEEP THE SAME NAME.
+Portrait pictures also need their _rot90 file (already included below).
+
+idx | picture file            | orientation | rotated file (portrait only)
+----+-------------------------+-------------+------------------------------
+  0 | 18tcM.jpg               | landscape   | -
+  1 | 2a88v.jpg               | landscape   | -
+  2 | 957fu.jpg               | portrait    | grok_02_rot90.jpg
+  3 | 9pjrt.jpg               | portrait    | grok_03_rot90.jpg
+  4 | A3Pn9.jpg               | portrait    | grok_04_rot90.jpg
+  5 | Bia0a.jpg               | portrait    | grok_05_rot90.jpg
+  6 | D1UBc.jpg               | landscape   | -
+  7 | HnT3M.jpg               | portrait    | grok_07_rot90.jpg
+  8 | IE1Ge.jpg               | portrait    | grok_08_rot90.jpg
+  9 | IPDWs.jpg               | portrait    | grok_09_rot90.jpg
+ 10 | KSfzr.jpg               | portrait    | grok_10_rot90.jpg
+ 11 | Kp1gy.jpg               | portrait    | grok_11_rot90.jpg
+ 12 | NV8zK.jpg               | landscape   | -
+ 13 | OtcyM.jpg               | landscape   | -
+ 14 | TKX0T.jpg               | portrait    | grok_14_rot90.jpg
+ 15 | UAyiX.jpg               | portrait    | grok_15_rot90.jpg
+ 16 | UgCm7.jpg               | portrait    | grok_16_rot90.jpg
+ 17 | Uh3Ic.jpg               | portrait    | grok_17_rot90.jpg
+ 18 | WDkRy.jpg               | portrait    | grok_18_rot90.jpg
+ 19 | WT4eN.jpg               | portrait    | grok_19_rot90.jpg
+ 20 | Y2con.jpg               | portrait    | grok_20_rot90.jpg
+ 21 | YYcSd.jpg               | portrait    | grok_21_rot90.jpg
+ 22 | ZT3N3.jpg               | portrait    | grok_22_rot90.jpg
+ 23 | gDRMM.jpg               | portrait    | grok_23_rot90.jpg
+ 24 | gUWjC.jpg               | landscape   | -
+ 25 | kwvDt.jpg               | landscape   | -
+ 26 | lfP2d.jpg               | portrait    | grok_26_rot90.jpg
+ 27 | lgZPu.jpg               | portrait    | grok_27_rot90.jpg
+ 28 | mp5lo.jpg               | portrait    | grok_28_rot90.jpg
+ 29 | nWWLa.jpg               | portrait    | grok_29_rot90.jpg
+ 30 | rqyyw.jpg               | landscape   | -
+ 31 | suD3O.jpg               | portrait    | grok_31_rot90.jpg
+ 32 | wfHU6.jpg               | portrait    | grok_32_rot90.jpg
+ 33 | xfmqr.jpg               | portrait    | grok_33_rot90.jpg
+ 34 | xgv9B.jpg               | landscape   | -
+ 35 | 9SGaF.jpg               | landscape   | -
+ 36 | 9jy7i.jpg               | portrait    | grok_36_rot90.jpg
+ 37 | CHApF.jpg               | portrait    | grok_37_rot90.jpg
+ 38 | CbigD.jpg               | landscape   | -
+ 39 | Emm1o.jpg               | landscape   | -
+ 40 | GFyia.jpg               | portrait    | grok_40_rot90.jpg
+ 41 | J4djv.jpg               | landscape   | -
+ 42 | KauX6.jpg               | portrait    | grok_42_rot90.jpg
+ 43 | LW2s8.jpg               | portrait    | grok_43_rot90.jpg
+ 44 | NoxM8.jpg               | portrait    | grok_44_rot90.jpg
+ 45 | NpV6o.jpg               | portrait    | grok_45_rot90.jpg
+ 46 | W1Hmz.jpg               | portrait    | grok_46_rot90.jpg
+ 47 | fOmRR.jpg               | landscape   | -
+ 48 | h2dsC.jpg               | portrait    | grok_48_rot90.jpg
+ 49 | h2iG7.jpg               | portrait    | grok_49_rot90.jpg
+ 50 | tssNr.jpg               | landscape   | -
+ 51 | u0Ww7.jpg               | portrait    | grok_51_rot90.jpg
+ 52 | u88bC.jpg               | landscape   | -
+ 53 | uFwW3.jpg               | landscape   | -
+ 54 | uMvBl.jpg               | landscape   | -
